@@ -1,0 +1,4 @@
+
+Key	Name
+72d200a2a717b10707cfc0ce2697c45c
+https://api.openweathermap.org/data/2.5/forecast?q=(город)&APPID=(уникальный токен, полученный при регистрации)
